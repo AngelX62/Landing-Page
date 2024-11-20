@@ -13,7 +13,7 @@ body {
 div {
     display: block;
 }
-
+/* First section */
 .header-container {
     padding: 16px 300px 70px 300px; 
     background-color: #1f2937;
@@ -112,7 +112,7 @@ button {
         width: 170px;
     }
 }
-
+/* 3rd Section */
 .quote-section {
     display: flex;
     justify-content: center;
@@ -143,3 +143,44 @@ button {
 .inner-wrap2 {
     padding-top: 20px;
 }
+
+/* Last section */
+.Main4-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 300px 100px 300px;
+}
+
+.inner-wrap3 {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 800px;
+    height: 100px;
+    padding: 20px 40px;
+    border: solid #3882F6;
+    border-radius: 15px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+
+    & button {
+        border-color: white;
+    }
+
+}
+
+.Another-inner {
+    display: flex;
+    flex-direction: column;
+}
+/* Copywrite section */
+.footer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color:#F9FAF8;
+    padding: 20px;
+}
+
