@@ -112,3 +112,34 @@ button {
         width: 170px;
     }
 }
+
+.quote-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 300px 100px 300px;
+    flex-direction: column;
+    background-color: #E5E7EB;
+
+    & p {
+        display: flex;
+        justify-content:end;
+        width: 500px;
+        font-size: 24px;
+        font-weight: 900;
+    }
+}
+
+.inner-wrap1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align:center;
+}
+
+.inner-wrap2 {
+    padding-top: 20px;
+}
