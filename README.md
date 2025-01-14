@@ -12,3 +12,8 @@ The Coco's Dreamy World project aims to create a visually stunning and immersive
 ## Authors
 Christopher Hanryan
 
+## License
+This project is licensed under the MIT License-see the LICENSE.md file for details
+
+## Acknowledgements
+The Odin Project (https://www.theodinproject.com)
